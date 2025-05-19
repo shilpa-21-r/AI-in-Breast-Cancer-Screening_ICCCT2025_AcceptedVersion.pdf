@@ -1,2 +1,2 @@
 # AI-in-Breast-Cancer-Screening_ICCCT2025_AcceptedVersion.pdf
-This is the accepted version of the paper titled "Your Paper Title", accepted at the International Conference on Computing, Communication, and Technology (ICCCT 2025). The final version will be published in the official conference proceedings and will be available via IEEE/Publisher Link once published.
+This is the accepted version of the paper titled "AI in Breast Cancer Screening: A Comparative Analysis of Current Approach (ML)", accepted at the International Conference on Computing, Communication, and Technology (ICCCT 2025). The final version will be published in the official conference proceedings and will be available via IEEE/Publisher Link once published.
